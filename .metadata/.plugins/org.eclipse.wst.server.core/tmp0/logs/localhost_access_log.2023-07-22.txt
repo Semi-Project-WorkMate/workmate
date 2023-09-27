@@ -1,0 +1,14 @@
+127.0.0.1 - - [22/Jul/2023:21:12:09 +0900] "GET / HTTP/1.1" 500 2095
+127.0.0.1 - - [22/Jul/2023:22:21:10 +0900] "GET / HTTP/1.1" 500 2095
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /main.do HTTP/1.1" 200 7149
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/css/style.css HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/static/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/static/css/heroes.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/static/css/features.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/static/css/headers.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/static/js/bootstrap.min.css HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/js/bootstrap.min.css HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/static/js/bootstrap.bundle.min.js HTTP/1.1" 200 80420
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/css/bootstrap.bundle.min.js HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:21 +0900] "GET /resources/static/img/completed_tasks.png HTTP/1.1" 200 42638
+0:0:0:0:0:0:0:1 - - [22/Jul/2023:22:21:22 +0900] "GET /favicon.ico HTTP/1.1" 404 721

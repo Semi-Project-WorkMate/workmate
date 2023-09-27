@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.workMate.mateapp.calendar.controller.DateData"/>
+    <fullyQualifiedTypeName name="com.workMate.mateapp.calendar.service.CalendarService"/>
+    <fullyQualifiedTypeName name="com.workMate.mateapp.member.controller.MemberController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.support.RedirectAttributes"/>
+    <fullyQualifiedTypeName name="org.springframework.dao.DataAccessException"/>
+    <fullyQualifiedTypeName name="com.workMate.mateapp.board.vo.ReplyVO"/>
+</qualifiedTypeNameHistroy>

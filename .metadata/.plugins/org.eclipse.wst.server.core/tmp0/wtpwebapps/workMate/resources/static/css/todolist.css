@@ -1,0 +1,19 @@
+.todoInput {
+  font-weight : bold ;
+  width:100%;
+  border: none;
+ 
+}
+
+.del, .update-btn{
+  margin-top:3px;
+  border:none;
+  background-color:transparent;
+  margin-right: -17px;
+}
+
+.updateInput {
+  background: none;
+  border: none;
+  font-weight : bold ;
+}
