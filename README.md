@@ -1,6 +1,7 @@
 Work Mate
 =================
-![landingpage - 복사본](https://github.com/MLP-SemiProject/WorkMate/assets/117848278/2c728384-55d6-436b-980b-2db99e8cf91e)
+![landingpage](https://github.com/Semi-Project-WorkMate/workmate/assets/117848278/359899cf-152e-4998-adc7-c6f993d02237)
+
 </br></br></br>
 
 프로젝트 산출물
